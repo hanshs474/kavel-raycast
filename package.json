@@ -4,7 +4,7 @@
   "title": "Kavel AI Image Generator",
   "description": "Generate AI images from a prompt without leaving Raycast. Works with no API key on Kavel's free tier.",
   "icon": "extension-icon.png",
-  "author": "kavel",
+  "author": "hanshs474",
   "categories": ["Media", "Productivity"],
   "license": "MIT",
   "commands": [
